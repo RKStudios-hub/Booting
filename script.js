@@ -108,7 +108,7 @@ const AnimateBox = () => {
         hydra.removeAttribute("style");
         // Add redirection here
         setTimeout(() => {
-            window.location.href = "https://rkstudios-hub.github.io/Booted/"; 
+            window.location.href = "https://rkstudios-hub.github.io/Booted"; 
         }, 2000); // Redirect after 2 seconds
     });
 };
