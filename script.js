@@ -108,7 +108,7 @@ const AnimateBox = () => {
         hydra.removeAttribute("style");
         // Add redirection here
         setTimeout(() => {
-            window.location.href = "file:///C:/Users/LENOVO/Desktop/Menu-Bar-Hover-Effect/booted/index.html"; 
+            window.location.href = "https://rkstudios-hub.github.io/Booted/"; 
         }, 2000); // Redirect after 2 seconds
     });
 };
